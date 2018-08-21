@@ -450,7 +450,7 @@
 
         if (fadeSplashScreenValue == nil)
         {
-            fadeSplashScreenValue = @"true";
+            fadeSplashScreenValue = @"false";
         }
 
         if (![fadeSplashScreenValue boolValue])
