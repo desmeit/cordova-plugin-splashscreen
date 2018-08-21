@@ -112,7 +112,7 @@
     // backwards compatibility - if key is missing, default to true
     if ((showSplashScreenSpinnerValue == nil) || [showSplashScreenSpinnerValue boolValue])
     {
-        [parentView addSubview:_activityView];
+        //[parentView addSubview:_activityView];
     }
 
     // Frame is required when launching in portrait mode.
